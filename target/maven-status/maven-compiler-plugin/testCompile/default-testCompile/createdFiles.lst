@@ -1,3 +1,2 @@
-com\test\GoogleTestCases.class
-com\test\FacebookTestCases.class
-com\test\FirstTestNGDemo.class
+com/test/FirstTestNGDemo.class
+com/test/GoogleTestCases.class

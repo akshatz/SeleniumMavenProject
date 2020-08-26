@@ -1,6 +1,6 @@
 package com.test;
 
-import java.util.concurrent.TimeUnit;
+import static java.util.concurrent.TimeUnit.MILLISECONDS;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -11,13 +11,15 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 public class FacebookTestCases {
-	 WebDriver driver;
-	  @BeforeTest
-	  public void beforeTest() {
-		  	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Chandan/Desktop\\browserDriver\\chromedriver.exe");
-			driver=new ChromeDriver();
-			//driver.manage().window().maximize();
-			driver.manage().timeouts().implicitlyWait(5000, TimeUnit.MILLISECONDS);
+	WebDriver driver;
+
+	@BeforeTest
+	public void beforeTest() {
+		System.setProperty("webdriver.chrome.driver",
+		    			   "/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/factory/chromedriver");
+		driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		driver.manage().timeouts().implicitlyWait(5000, MILLISECONDS);
 	  }
   
 	  @AfterTest

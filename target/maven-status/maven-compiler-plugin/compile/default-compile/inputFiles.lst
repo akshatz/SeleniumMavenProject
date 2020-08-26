@@ -1,5 +1,8 @@
-C:\Users\Chandan\automation_workspace\SeleniumMavenDemo\src\main\java\com\guru99\pageObject\MainTestRunner.java
-C:\Users\Chandan\automation_workspace\SeleniumMavenDemo\src\main\java\com\guru99\pageObject\NewCustomerPage.java
-C:\Users\Chandan\automation_workspace\SeleniumMavenDemo\src\main\java\com\guru99\pageObject\HomePage.java
-C:\Users\Chandan\automation_workspace\SeleniumMavenDemo\src\main\java\com\guru99\pageObject\LoginPage.java
-C:\Users\Chandan\automation_workspace\SeleniumMavenDemo\src\main\java\com\guru99\pageObject\NewAccountPage.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/pageObject/HomePage.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/kdd/TestCaseExecutor.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/factory/DriverFactory.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/kdd/ReusableFuntion.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/pageObject/LoginPage.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/pageObject/MainTestRunner.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/pageObject/NewCustomerPage.java
+/home/akshatz/Documents/SeleniumMavenProject/src/main/java/com/guru99/pageObject/NewAccountPage.java
