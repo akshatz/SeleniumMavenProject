@@ -1,8 +1,0 @@
-com/guru99/pageObject/NewAccountPage.class
-com/guru99/pageObject/MainTestRunner.class
-com/factory/DriverFactory.class
-com/guru99/pageObject/HomePage.class
-com/guru99/kdd/ReusableFuntion.class
-com/guru99/pageObject/LoginPage.class
-com/guru99/pageObject/NewCustomerPage.class
-com/guru99/kdd/TestCaseExecutor.class
